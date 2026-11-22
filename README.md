@@ -1,4 +1,4 @@
-<h1 align="center">Customer Churn Prediction using Cloud Machine Learning</h1>
+<h1 align="center">Customer Churn Prediction</h1>
 
 <p align="center">
 An end-to-end machine learning project that finds telecom customers who are likely to leave,
