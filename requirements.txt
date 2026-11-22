@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+fastapi
+uvicorn
+pydantic>=2
+gcsfs
+google-cloud-storage
+google-cloud-aiplatform
